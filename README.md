@@ -1,2 +1,8 @@
 # blog-template
-a template for blogs
+A template ideally for blogs.  Created using flexbox.
+Desktop view:
+![](/screenshot-template.png)
+
+Mobile view:
+
+![](/screenshot-phone.png)
